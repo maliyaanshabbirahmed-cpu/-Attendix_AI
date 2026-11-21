@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+credentials.json
+token.json
+data/attendance.db
+data/student_images/*
+!data/student_images/.gitkeep
